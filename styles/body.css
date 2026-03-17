@@ -1,0 +1,6 @@
+body{
+    background-color: firebrick;
+    background: linear-gradient(to top, firebrick, yellow);
+    padding:20px;
+    border: 2px solid black;
+}
