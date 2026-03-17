@@ -1,2 +1,2 @@
-123213
-$ exit
+Author Nikita Nesterenko
+touch gitignore.txt
