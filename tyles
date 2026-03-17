@@ -1,0 +1,33 @@
+[1mdiff --cc index.html[m
+[1mindex 7f1c1c7,183bb33..0000000[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@@ -3,14 -3,16 +3,28 @@@[m
+  <head>[m
+      <meta charset="UTF-8">[m
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m++<<<<<<< HEAD[m
+[32m +    <title>Document</title>[m
+[32m +</head>[m
+[32m +<body>[m
+[32m +    <h1>Lorem ipsum dolor sit amet</h1>[m
+[32m +    <img src="images/IMG_7289.JPG">[m
+[32m +    <img src="images/IMG_7290.JPG">[m
+[32m +    <img src="images/IMG_7292.JPG">[m
+[32m +    <img src="images/IMG_7293.JPG">[m
+[32m +    <img src="images/IMG_7295.PNG">[m
+[32m++=======[m
+[32m+     <title>LR_NNO_GIT2 with STYLES</title>[m
+[32m+     <link rel="stylesheet" href="styles/body.css">[m
+[32m+     <link rel="stylesheet" href="styles/h1.css">[m
+[32m+ [m
+[32m+ </head>[m
+[32m+ <body>[m
+[32m+     <h1>My TEST SITE</h1>[m
+[32m+     <br>[m
+[32m+     <br>[m
+[32m+     <br>[m
+[32m+     <p class="gradient">Copyright © 2023 Nesterenko Nikita. All rights reserved.</p>[m
+[32m++>>>>>>> styles[m
+  </body>[m
+  </html>[m
