@@ -1,4 +1,7 @@
 body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: firebrick;
     background: linear-gradient(to top, firebrick, yellow);
     padding:20px;
